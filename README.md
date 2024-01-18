@@ -1,8 +1,49 @@
 ![Header](./github-header-image.png)
 
-## 🌐 Socials
+## Social
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/prasannaezhilmu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasanna.ezhilmurugan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanna-ezhilmurugan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prasanna.ezhilmurugan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/PRASANNA-EZHILMURUGAN) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/prasanna-ezhil)
+<p align="left">
+	<a href="https://discord.com/users/prasanna.ezhilmurugan" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=discord&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="https://www.github.com/prasanna-ezhilmurugan" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=github&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="https://git.selfmade.ninja/" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=git&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="http://www.instagram.com/prasanna.ezhilmurugan" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=instagram&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a
+		href="https://www.linkedin.com/in/prasanna-ezhilmurugan"
+		target="_blank"
+		rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=twitter&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+</p>
+
 
 # 💻 Tech Stack
 
